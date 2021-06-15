@@ -6,7 +6,7 @@ The structure of the repository is the following:
     script_cluster.py  <-- .py file wich was used to be executed in the cluster (the same as "script.pynb" but modified in order to work in the cluster)
     script_cluster.sh  <-- bash script to load the .py file into the cluster
     
-    arcDataset  <-- inside each of the following folders, you can find a ".mat" file containing a data structure called "data" with all the images of the corresponding class
+    arcDataset  <-- inside this folder, you will find a link to a google drive folder in which you will have access to the following folders. For each of them, you will find a ".mat" file containing a data structure called "data" with all the images of the corresponding class
 
         house
         church_historical
