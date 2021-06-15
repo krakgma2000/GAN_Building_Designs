@@ -8,16 +8,16 @@ script_cluster.py  <-- .py file wich was used to be executed in the cluster (the
 
 arcDataset  <-- inside each of the following folders, you can find a ".mat" file containing a data structure called "data" with all the images of the corresponding class
 
-  house
+    house
   
-  church_historical
+    church_historical
+
+    building_old
   
-  building_old
+    building_normal
   
-  building_normal
+    building_modern
   
-  building_modern
-  
-  house_bigdata
+    house_bigdata
   
 results  <-- here we can find all the results explained in our oral presentation, among others
